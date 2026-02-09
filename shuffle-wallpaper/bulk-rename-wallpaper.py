@@ -20,6 +20,6 @@ def rename_images(directory_path):
 
 
 #usage 
-rename_images(directory_path="/home/shoyo/Pictures/wallpaper-dir/")
+rename_images(directory_path="add you path")
 
 
