@@ -1,0 +1,2 @@
+1:there are some fixes i need to add because when you typed 'greatest of all time ' which is suppose to be goat it gave me GAT not cool or maybe its only accept or add three words to make the acroynm so make sure to fix this because only do three 
+2:so the issuse was the of replace so now right now how can i set it up
